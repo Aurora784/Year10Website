@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html><head>
+    <title>Home </title>
+    <link rel="icon" href="favicon.png">
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background-color: burlywood;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <header>
+
+        <div class="nav">
+
+
+            <ul>
+                <li class="active"><a href="index.html">home</a></li>
+
+                <li class="tutorials">
+                    <a class="photography" href="cars.html">photography</a></li>
+
+                <li class="about"><a href="#">about me</a></li>
+                <li class="active"><a href="technology.html">technology</a></li>
+                <li class="contact"><a href="#">contact</a></li>
+
+            </ul>
+
+
+
+
+
+
+        </div>
+
+
+    </header>
+
+    <div style="text-align: center">
+        <h1><b>Technology Page</b></h1>
+    </div>
+
+
+
+
+    <div style="text-align: center"><img border="10" width="20%" src="basicimages/phone.jpeg"></div>
+
+
+
+   <div style="text-align: center"><h2><b>Do smartphones have a place in the classroom </b></h2></div>
+
+ <div style="text-align: center"><h4><b>according to an article on theatlantic 75% of students have grades lower than average. To the school it seems that the students cant handle multitasking between their phones and schoolwork. The phone can also be a learning tool aswell as a distraction. But for most the phones academic potetional is ignored.</b></h4></div>
+
+
+
+</body>
+</html>  
